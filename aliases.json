@@ -1,18 +1,1 @@
-[ {
-  "id" : 1039876889606643712,
-  "uri" : "sad://flatfiles/rfs#qqq",
-  "connection" : {
-    "type" : "local",
-    "fields" : [ {
-      "name" : "host",
-      "value" : "localhost"
-    }, {
-      "name" : "port",
-      "type" : "number",
-      "value" : 0
-    }, {
-      "name" : "rootPath",
-      "value" : "C:\\team2home\\workspace\\GIT"
-    } ]
-  }
-} ]
+[ ]
