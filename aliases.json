@@ -1,0 +1,13 @@
+[ {
+  "id" : 1224353463700234240,
+  "uri" : "sad://flatfiles/rfs#localFS",
+  "connection" : {
+    "type" : "local",
+    "fields" : [ {
+      "name" : "host"
+    }, {
+      "name" : "rootPath",
+      "value" : "D:\\team_test_oracle\\server\\workspace\\localFS\\TEST"
+    } ]
+  }
+} ]
