@@ -6,6 +6,9 @@
     "fields" : [ {
       "name" : "host"
     }, {
+      "name" : "port",
+      "type" : "number"
+    }, {
       "name" : "rootPath",
       "value" : "D:\\team_test_oracle\\server\\workspace\\localFS\\TEST"
     } ]
